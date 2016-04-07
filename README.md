@@ -1,5 +1,5 @@
 # Stringify
-A reimplementation of JSON.stringify
+A simple reimplementation of JSON.stringify
 
 # How to run tests:
 1) Clone Locally 
@@ -7,7 +7,7 @@ A reimplementation of JSON.stringify
 git clone https://github.com/gredfearn/stringify
 ```
 
-2) Run NPM install in terminal:
+2) Navigate to local repository folder and run npm install in terminal:
 ```sh
 $ npm install
 ```
