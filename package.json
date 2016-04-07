@@ -4,11 +4,15 @@
   "description": "JSON.Stringify recursive",
   "main": "index.js",
   "scripts": {
-    "test": "make test",
+    "test": "make test"
   },
   "keywords": [
     "JSON.stringify"
   ],
   "author": "Grant Redfearn",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
 }
